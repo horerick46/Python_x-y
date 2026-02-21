@@ -2,7 +2,20 @@
 
 Welcome to my Python learning repository! This space tracks my progress as I master Python programming, from basics to advanced concepts. I'll document lessons, projects, challenges, and milestones along the way.
 
-## 📊 Learning Progress
+## � Folder Structure
+
+The repository is organized into the following folders for better organization:
+
+- **Python_Basics/** - Variables, data types, basic operations, strings, lists
+- **Control_Flow/** - If/else statements, loops, break/continue
+- **Functions/** - Defining functions, parameters, return values, scope
+- **Data_Structures/** - Lists, tuples, dictionaries, sets
+- **File_Handling/** - Reading/writing files, file modes, error handling
+- **OOP/** - Classes, objects, inheritance, polymorphism, encapsulation
+- **Modules_and_Packages/** - Importing modules, standard library, creating modules
+- **Projects/** - Complete projects and applications
+
+## �📊 Learning Progress
 
 ### Current Level: Beginner
 - [x] Variables and Data Types
